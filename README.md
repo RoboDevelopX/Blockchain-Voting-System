@@ -1,8 +1,4 @@
-# Final-Year-Blockchain-Voting-System
 
-## Youtube Brief of Project : https://youtu.be/-OD5LRbKcJI
-
-## Synopsis : [Click to View](https://github.com/Vatshayan/Final-Year-Blockchain-Voting-System/blob/main/E%20voting%20using%20Blockchain%20Synopsis1.pdf)
 
 ![F81D36CE-1734-4FD0-8FE1-00997404C659_1_201_a](https://user-images.githubusercontent.com/28294942/159865599-41450cb5-2893-41b3-b458-5d449b39513c.jpeg)
 
@@ -36,25 +32,3 @@ Programming : Solidity
 
 _________________________________________________________________________________________________________________________________________________
 
-
-## Hi there, 
-
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-Mail/Message me for Projects Help 🙏🏻
-
-### Another Blockchain BLog System Project : https://github.com/Vatshayan/Decentrilized-Blockchain-Blog-System-Project
